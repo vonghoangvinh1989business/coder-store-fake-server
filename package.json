@@ -1,0 +1,15 @@
+{
+  "name": "coder-store-fake-server",
+  "version": "1.0.0",
+  "description": "coder store fake server to server json database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vinh Vong Hoang",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
